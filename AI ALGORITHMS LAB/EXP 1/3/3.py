@@ -1,0 +1,10 @@
+x=int(input("ENTER NUM1 : "))
+y=int(input("ENTER NUM2 : "))
+
+print("addition = ",x+y)
+print("subtraction = ",x-y)
+print("multiplication = ",x*y)
+print("division = ",float(x/y))
+print("floor division  = ",x//y)
+print("modulo = ",x%y)
+print("exponent = ",x**y)
